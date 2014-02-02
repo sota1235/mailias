@@ -10,7 +10,7 @@
 % source ~/.zshrc
 ```
 
-* FebruaryHackthon 2/28
+* FebruaryHackathon 2/28
 
 ### 環境
 
