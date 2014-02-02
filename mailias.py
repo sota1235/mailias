@@ -2,7 +2,6 @@
 # Copytright sota1235
 # Date 2014/02/02
 
-import os
 import sys
 
 # .zshrcに追加するalias
