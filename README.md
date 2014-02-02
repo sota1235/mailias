@@ -1,4 +1,4 @@
-# make alias
+# malias
 
 * 任意のフォルダに移動するaliasコマンドを生成します。
 
