@@ -10,7 +10,7 @@ python malias.py [任意のフォルダのパス] [aliasコマンド名]
 
 * FebruaryHackthon 2/28
 
-## 環境
+### 環境
 
 * Python2.7
 
