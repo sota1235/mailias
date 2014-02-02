@@ -5,7 +5,9 @@
 * 実行方法
 
 ```
-python malias.py [任意のフォルダのパス] [aliasコマンド名]
+% python malias.py [任意のフォルダのパス] [aliasコマンド名]
+
+% source ~/.zshrc
 ```
 
 * FebruaryHackthon 2/28
